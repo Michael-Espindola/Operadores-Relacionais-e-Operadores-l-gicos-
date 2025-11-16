@@ -1,0 +1,8 @@
+# código para determinar se o empréstimo será aprovado ou não de acordo com as condições pré - estabelecidas: salario maior que 1000 e idade maior que 20
+
+salario=100
+idade=20
+if salario >=1000 and idade >=20:
+   print("emprestimo aprovado")
+else:
+   print("emprestimo nao aprovado")
