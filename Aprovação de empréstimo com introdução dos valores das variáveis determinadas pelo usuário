@@ -1,0 +1,6 @@
+salario=float(input("insira o valor do salário:  "))
+idade=int(input("insira o valor da idade:  "))
+if salario >= 1000 and idade >= 20:
+   print("Empréstimo aprovado")
+else:
+   print ("Empréstimo não aprovado")
